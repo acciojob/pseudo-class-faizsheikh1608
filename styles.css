@@ -5,7 +5,7 @@
 }
 
 #container:before{
-	content: "Before Element ";
+	content: "Before Element";
 	color : red;
 	font-size:20px;
 }
